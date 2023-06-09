@@ -1,10 +1,10 @@
 {
-    "name": "sofa/hookable",
-    "description": "Laravel Eloquent hooks system.",
+    "name": "edoniti/sofa-hookable-8",
+    "description": "Laravel Eloquent hooks system. - PHP 8",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/jarektkaczyk/hookable/issues",
-        "source": "https://github.com/jarektkaczyk/hookable"
+        "issues": "https://github.com/edoniti/hookable-8/issues",
+        "source": "https://github.com/edoniti/hookable-8"
     },
     "keywords": ["eloquent", "laravel"],
     "authors": [
